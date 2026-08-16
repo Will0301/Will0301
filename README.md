@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Willian Weyh
-- 👀 I’m interested in Web developer
-- 🌱 I’m currently learning Computer science
+- 👀 I'm a software engineer
+- 🌱 I’m currently learning software architecture
 - 📫 How to reach me willian.f.w@hotmail.com
